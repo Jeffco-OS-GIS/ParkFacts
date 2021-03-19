@@ -5,25 +5,39 @@ body, html {
     text-align: center;
 }
 
-#temp {
-    margin-top: 10%;
-}
-
 #park-facts {
     color: white;
     font-family: 'Verdana';
     letter-spacing: 1pt;
     font-size: 24px;
-    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
-#park-acreage, #park-mileage {
+#park-acreage{
     color: white;
     font-family: 'Verdana';
-    font-size: 22px;
-    padding-bottom: 5px;
+    font-size: 15px;
 }
 
-.icons {
-    height: 45px;
+#mileage-row {
+    margin-bottom: 0;
+}
+
+#park-mileage {
+    color: white;
+    font-family: 'Verdana';
+    font-size: 15px;
+    padding-top: 5px;
+    margin-bottom: 0;
+}
+
+#icons {
+    margin-top: 0;
+}
+
+img {
+    padding: 0;
+    margin-right: 0;
+    margin-left: 0;
+    font-size: 0;
 }
